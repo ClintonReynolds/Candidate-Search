@@ -8,10 +8,12 @@ const CandidateSearch = () => {
   const [error, setError] = useState<string | null>(null);
 
   const fetchCandidate = async () => {
+    console.log('fetchCandidate');
     setIsLoading(true);
     setError(null);
     try {
       const candidates = await searchGithub();
+      console.log('candidates', candidates);
       if (!Array.isArray(candidates) || candidates.length === 0) {
         setError("No candidates available or invalid API response.");
         setIsLoading(false);
