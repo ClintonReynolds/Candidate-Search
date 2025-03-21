@@ -54,6 +54,6 @@ For any questions, feel free to reach out to [eastwood188209@gmail.com].
 
 **Links**
 
-Repo:
+Repo: git@github.com:ClintonReynolds/Candidate-Search.git
 
-Deployed:
+Deployed: 
