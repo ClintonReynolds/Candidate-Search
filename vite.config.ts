@@ -19,5 +19,6 @@ export default defineConfig({
     allowedHosts: ["candidate-search-3-dpyh.onrender.com"], // Add this host to allowed hosts
   },
   preview: {
+    allowedHosts: ["candidate-search-3-dpyh.onrender.com"],
   },
 });
