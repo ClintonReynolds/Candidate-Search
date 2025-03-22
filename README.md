@@ -1,3 +1,6 @@
+file:///C:/Users/eastw/Downloads/Screenshot_21-3-2025_20658_candidate-search-3-dpyh.onrender.com.jpeg
+![alt text](Screenshot_21-3-2025_20926_candidate-search-3-dpyh.onrender.com.jpeg)
+
 # Candidate Search Project
 
 This project is designed as part of a candidate search for a React Developer position with a focus on Vite, React, and TypeScript. It serves as a boilerplate setup that allows candidates to demonstrate their proficiency in modern frontend technologies.
@@ -56,4 +59,4 @@ For any questions, feel free to reach out to [eastwood188209@gmail.com].
 
 Repo: git@github.com:ClintonReynolds/Candidate-Search.git
 
-Deployed: 
+Deployed: https://candidate-search-3-dpyh.onrender.com
