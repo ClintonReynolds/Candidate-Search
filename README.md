@@ -57,6 +57,6 @@ For any questions, feel free to reach out to [eastwood188209@gmail.com].
 
 **Links**
 
-Repo: git@github.com:ClintonReynolds/Candidate-Search.git
+Repo: https://github.com/ClintonReynolds/Candidate-Search
 
 Deployed: https://candidate-search-3-dpyh.onrender.com
