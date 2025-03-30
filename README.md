@@ -1,10 +1,12 @@
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 
-file:///C:/Users/eastw/Downloads/Screenshot_21-3-2025_20658_candidate-search-3-dpyh.onrender.com.jpeg
+![image](https://github.com/user-attachments/assets/eee60912-c69a-4c9e-9c53-5681a2bccb47)
+
 ![alt text](Screenshot_21-3-2025_20926_candidate-search-3-dpyh.onrender.com.jpeg)
 
 # Candidate Search Project
 
+# Description
 This project is designed as part of a candidate search for a React Developer position with a focus on Vite, React, and TypeScript. It serves as a boilerplate setup that allows candidates to demonstrate their proficiency in modern frontend technologies.
 
 ## Project Setup
@@ -68,4 +70,4 @@ For any questions, feel free to reach out to [eastwood188209@gmail.com].
 
 Repo: https://github.com/ClintonReynolds/Candidate-Search
 
-Deployed: https://candidate-search-3-dpyh.onrender.com
+Deployed on render: https://candidate-search-3-dpyh.onrender.com
