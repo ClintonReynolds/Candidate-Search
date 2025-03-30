@@ -1,3 +1,5 @@
+![License](https://img.shields.io/badge/license-MIT-brightgreen)
+
 file:///C:/Users/eastw/Downloads/Screenshot_21-3-2025_20658_candidate-search-3-dpyh.onrender.com.jpeg
 ![alt text](Screenshot_21-3-2025_20926_candidate-search-3-dpyh.onrender.com.jpeg)
 
@@ -57,7 +59,7 @@ Push to the branch (git push origin feature/your-feature).
 Open a pull request.
 
 **License**
-This project is licensed under the MIT License - ![License](https://img.shields.io/badge/license-MIT-brightgreen)
+This project is licensed under the MIT License - (https://opensource.org/licenses/MIT)
 
 **Contact**
 For any questions, feel free to reach out to [eastwood188209@gmail.com].
